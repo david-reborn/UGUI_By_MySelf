@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UnityEngine.UI.Image">
+    <Position X="11" Y="13.75" Width="5.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="UnityEngine.UI.Image.Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\Image.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="UnityEngine.UI.Image.FillMethod" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\Image.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="UnityEngine.UI.Image.OriginHorizontal" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\Image.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="UnityEngine.UI.Image.OriginVertical" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\Image.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="UnityEngine.UI.Image.Origin90" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\Image.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="UnityEngine.UI.Image.Origin180" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\Image.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="UnityEngine.UI.Image.Origin360" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\Image.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>RkCyYMAQAERwTIIAAqEFeFAkERBHMRoIUAQHAA9JDBE=</HashCode>
+      <FileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\Image.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="1.3" />
+  </Class>
+  <Class Name="UnityEngine.UI.MaskableGraphic">
+    <Position X="4" Y="12.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="UnityEngine.UI.MaskableGraphic.CullStateChangedEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\MaskableGraphic.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAIAVAAABhABgABAIESQAAAQRAQAAQIIIACAAAACEA=</HashCode>
+      <FileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\MaskableGraphic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UnityEngine.UI.Graphic">
+    <Position X="7.5" Y="9.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AHENhAAUrCHBBDALEYGHIAAKElQGIQKIEGQW4ghiCYA=</HashCode>
+      <FileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\Graphic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UnityEngine.UI.RawImage">
+    <Position X="17.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAABgAgAAAIAEIAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\RawImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.UI.Text">
+    <Position X="19.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAKQkAAAAABgDiECCqMDQAAgQgEcABAIEAARCAgkDAA=</HashCode>
+      <FileName>Assets\com.unity.ugui@1.0.0\Runtime\UI\Core\Text.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

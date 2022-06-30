@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3898588812
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: spriteatlas.ab
+      Dependencies: {}

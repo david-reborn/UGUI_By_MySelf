@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3125388945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a9f77d0fb849c92e9dee92309ed1fa0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3dbb92f992534c06c4e322444b68580f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/SpriteAtlas.spriteatlas
+Dependencies: []
